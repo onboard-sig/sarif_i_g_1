@@ -20,4 +20,4 @@ jobs:
       - name: Upload SARIF file
         uses: github/codeql-action/upload-sarif@v2
         with:
-          sarif_file: sarif_blackduck_grouped_webgoat_normalized.json
+          sarif_file: s_i_g.json
