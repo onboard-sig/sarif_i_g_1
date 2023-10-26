@@ -5,6 +5,7 @@
             "tool": {
                 "driver": {
                     "name": "Black Duck Intelligent",
+                    "organization": "Synopsys",
                     "rules": [
                         {
                             "id": "Apache Ant 1.6.2",
@@ -2364,10 +2365,10 @@
                         {
                             "physicalLocation": {
                                 "artifactLocation": {
-                                    "uri": "webgoat-lessons/cross-site-scripting/pom.xml"
+                                    "uri": "unknown file"
                                 },
                                 "region": {
-                                    "startLine": 18
+                                    "startLine": 1
                                 }
                             }
                         }
